@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406736579315",
+    "project_id": "fluttertarea-1ea95",
+    "storage_bucket": "fluttertarea-1ea95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406736579315:android:6ca69b57ae60da83fee586",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinal2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406736579315-o2f2vaakarshvhovu6o0grofqtk6a6jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhvaKh77mgd_qQbZ-eSi-kIbUk0gRa28Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406736579315-o2f2vaakarshvhovu6o0grofqtk6a6jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
